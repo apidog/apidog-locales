@@ -4,12 +4,12 @@ This repository contains localized resource files for Apidog. Each language dire
 
 ## 🌍 Translation Progress
 
-| Language                    | ISO Code | Client Progress | Server Progress | Overall Status |
-| --------------------------- | -------- | --------------- | --------------- | -------------- |
-| **English (United States)** | en-US    | 100% ✅         | 100% ✅         | Complete       |
-| **Japanese**                | ja-JP    | 100% ✅         | 100% ✅         | Complete       |
-| **Portuguese**              | pt-PT    | 100% ✅         | 100% ✅         | Complete       |
-| **Spanish**                 | es-ES    | 99% ⏳          | 99% ⏳          | In progress    |
+| Language                    | ISO Code | Client Progress | Server Progress | Review Progress | Overall Status |
+| --------------------------- | -------- | --------------- | --------------- | --------------- | -------------- |
+| **English (United States)** | en-US    | 100% ✅         | 100% ✅         | 100% ✅         | Complete       |
+| **Japanese**                | ja-JP    | 100% ✅         | 100% ✅         | 100% ✅         | Complete       |
+| **Portuguese**              | pt-PT    | 100% ✅         | 100% ✅         | 0% 🔄          | Under Review   |
+| **Spanish**                 | es-ES    | 100% ✅         | 100% ✅         | 0% 🔄          | Under Review   |
 
 > **Note**: Your translation work will be visible in the product once the overall progress reaches 80%.
 
@@ -19,10 +19,14 @@ This repository contains localized resource files for Apidog. Each language dire
 apidog-locales/
 ├── app-client/          # Client-side UI translations
 │   ├── en-US.json      # English (base language)
+│   └── es-ES.json      # Spanish translations
 │   └── ja-JP.json      # Japanese translations
+│   └── pt-PT.json      # Portuguese translations
 ├── app-server/          # Server-side message translations
 │   ├── en-US.json      # English (base language)
+│   └── es-ES.json      # Spanish translations
 │   └── ja-JP.json      # Japanese translations
+│   └── pt-PT.json      # Portuguese translations
 └── NounReferenceTable.md # Translation terminology glossary
 ```
 
