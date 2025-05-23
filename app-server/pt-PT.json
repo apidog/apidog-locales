@@ -9,13 +9,13 @@
     "slack": "Slack",
     "microsoftTeams": "Teams",
     "inbox": "Inbox",
-    "success": "Success",
-    "error.dataFormatError.websiteHelp": "Data format is incorrect, refer to the help documentation",
-    "gateway.tencentcloud": "Tencentcloud",
-    "modified.successfully": "Modified successfully",
-    "reset.successfully": "Reset successfully",
+    "success": "Sucesso",
+    "error.dataFormatError.websiteHelp": "Erro de formato de dados, consulte a ajuda",
+    "gateway.tencentcloud": "Tencent Cloud",
+    "modified.successfully": "Modificado com sucesso",
+    "reset.successfully": "Redefinido com sucesso",
     "webhook": "Webhook",
-    "email": "Email",
+    "email": "E-mail",
     "endpoint": "API",
     "endpointCase": "API Case",
     "markdown": "Markdown",
@@ -41,13 +41,13 @@
   "environment": {
     "visibility.forbidden": "Setting a mock environment to private is not allowed.",
     "visibility.privilege": "Only the administrator and environment creator can set the environment to private.",
-    "envName.development": "Develop Env",
-    "envName.test": "Testing Env",
-    "envName.prod": "Prod Env",
-    "envName.mock": "Local Mock",
-    "envName.cloudMock": "Cloud Mock",
+    "envName.development": "Amb. de desenv.",
+    "envName.test": "Amb. de testes",
+    "envName.prod": "Amb. de prod.",
+    "envName.mock": "Mock local",
+    "envName.cloudMock": "Mock na nuvem",
     "envName.selfHostedMock": "Self-hosted Mock",
-    "envName.serverMock": "Server Mock"
+    "envName.serverMock": "Mock do servidor"
   },
   "folder": {
     "default": "Default Folder",
@@ -101,7 +101,7 @@
     "project": "project",
     "Project": "Project",
     "invite-user.subject": "{inviter} has invited you to use {appName}",
-    "inviteMember.email.subject": "{inviter} invited you to join {resourceTypePlainText} {resourceValue} on {appName}",
+    "inviteMember.email.subject": "{inviter} convidou você para participar de {resourceTypePlainText} {resourceValue} no {appName}",
     "organization": "organization",
     "Organization": "Organization"
   },
@@ -146,9 +146,9 @@
     "mergeRequest.approved": "Project {projectName} merge request #{mergeRequestId} is approved. Contents from {sourceBranchName} have been successfully merged into {targetBranchName}.",
     "mergeRequest.rejected": "Project {projectName} merge request #{mergeRequestId} has been rejected. This merge request is closed.",
     "mergeRequest.review": "View",
-    "userCreditGrantApplication.type.G2.approved": "You have earned $50 credit for submitting a review on G2!",
-    "userCreditGrantApplication.type.X.approved": "You have earned $10 credit for posting a review on X(Twitter)!",
-    "userCreditGrantApplication.rejected": "Credit Approval Failed. — We were unable to approve your credit request as the review submission on {type} did not meet the requirements. If you have any questions or need assistance, please contact us via email."
+    "userCreditGrantApplication.type.G2.approved": "Você ganhou $50 de crédito por enviar uma revisão no G2!",
+    "userCreditGrantApplication.type.X.approved": "Você ganhou $10 de crédito por postar uma revisão no X(Twitter)!",
+    "userCreditGrantApplication.rejected": "Crédito aprovado. — Não foi possível aprovar seu pedido de crédito, pois a submissão da revisão em {type} não atendeu aos requisitos. Se você tiver alguma dúvida ou precisar de ajuda, entre em contato conosco por e-mail."
   },
   "notification": {
     "view": "View",
@@ -282,7 +282,7 @@
     "pricing.user.limit.above": "Full suite of core tools and collaboration features for over {limit} enterprise users",
     "pricing.price.feature.image": "Image embedding up to {value}",
     "pricing.price.feature.reports": "Test reports storage (online) up to {value}",
-    "pricing.price.feature.collection-runs": "Unlimited collection runs",
+    "pricing.price.feature.collection-runs": "Execuções de coleção ilimitadas",
     "pricing.price.feature.test-scenario": "Support import endpoint from other project as test scenario steps",
     "pricing.price.free.feature.design": "API design",
     "pricing.price.free.feature.debugging": "API debugging",
@@ -320,7 +320,7 @@
     "pricing.price.enterprise.feature.runner": "Unlimited run steps for scheduled tasks",
     "pricing.price.enterprise.feature.runner.mock": "Unlimited calls for self-hosted mock server",
     "pricing.price.enterprise.feature.comments": "Unlimited API Comments",
-    "pricing.price.enterprise.feature.mutip-docs-site": "Supports publishing multiple Docs Sites with the option to select the range of publication.",
+    "pricing.price.enterprise.feature.mutip-docs-site": "Suporta a publicação de vários Sites de Documentação com a opção de selecionar o intervalo de publicação.",
     "pricing.price.enterprise.feature.rbac": "Customize project role permissions",
     "pricing.price.enterprise.feature.testScenariosAssociation": "Visualization of Endpoints/cases and Test Scenarios Association",
     "pricing.price.enterprise.feature.testScenarioCoverage": "Endpoint case and test scenario coverage statistics",
@@ -357,8 +357,8 @@
     "plan.feature.tooling.item.audit-logs": "Audit Logs",
     "plan.feature.tooling.item.privateMockServer": "Private mock server",
     "plan.feature.tooling.item.prioritySupport": "Priority support",
-    "plan.feature.tooling.item.multiple-docs-sites": "Supports publishing multiple Docs Sites",
-    "plan.feature.tooling.item.sub-sites-support": "Sub-sites support the setting of publication scope",
+    "plan.feature.tooling.item.multiple-docs-sites": "Suporta a publicação de vários Sites de Documentação",
+    "plan.feature.tooling.item.sub-sites-support": "Os sub-sites suportam a definição do âmbito de publicação",
     "plan.feature.tooling.item.desktop": "Mac, Windows, Web and Linux apps",
     "plan.feature.tooling.item.testScenarioHistory": "Test scenario change history",
     "plan.feature.tooling.item.comments": "API comment",
@@ -476,8 +476,8 @@
     "plan.api.versions.count.per.project": "{count} / project"
   },
   "project": {
-    "server.default": "Default Server",
-    "rpcServer.default": "Default Server",
+    "server.default": "Servidor Padrão",
+    "rpcServer.default": "Servidor Padrão",
     "setting.default.template.id.description": "ID",
     "setting.default.template.category.description": "group",
     "setting.default.template.name.description": "name",
@@ -618,22 +618,22 @@
   "testScheduleTask": {
     "execution.completed": "\"{taskName}\" Scheduled task completed.",
     "usage.reach90.detail": "Remaining usage for scheduled task run steps is less than 10%.",
-    "usage.reached.detail": "Usage Limit Reached! Scheduled tasks will no longer run as planned."
+    "usage.reached.detail": "Usage Limit reached! Scheduled tasks will no longer run as planned."
   },
   "user": {
-    "ldap.error.email_existed": "This email address is already associated with another LDAP account.",
-    "email.conflict": "This email address is already registered. Please try to login directly.",
+    "ldap.error.email_existed": "Este endereço de e-mail já está associado a outra conta LDAP.",
+    "email.conflict": "Este endereço de e-mail já está cadastrado. Por favor, faça login.",
     "welcome.email.subject": "Welcome to {appName}",
     "emailToken.email.subject": "Login Code for {appName}: {token}",
     "emailVerify.email.subject": "Verification Code for {appName}: {token}",
     "sample.myWorkspace": "Personal Team",
     "sample.myProject": "My Project",
-    "sample.environmentName": "Petstore Env",
-    "account.error.exists": "This account already exists. Please choose a different one.",
+    "sample.environmentName": "Ambiente da Loja de Petstore",
+    "account.error.exists": "Esta conta já existe. Por favor, escolha outra.",
     "resetPassword.email.subject": "Reset password instructions",
     "deleteAccount.email.subject": "Account deleted on {appName}",
-    "authorization.expired": "Authorization has expired, please re-login.",
-    "password.required": "Please set a password first."
+    "authorization.expired": "A autorização expirou, faça login novamente.",
+    "password.required": "Por favor, defina uma senha primeiro."
   },
   "webSocketApi": {
     "unnamed": "Unnamed"
