@@ -124,7 +124,7 @@ fix(fr-FR): correct terminology in navigation menu
 ### Review Process
 
 - **Review time**: Within 3 business days
-- **Expedited review**: Email support@apidog.com with your PR link
+- **Expedited review**: Email yukioikeda@apidog.com with your PR link
 - **Feedback**: We'll provide constructive feedback for improvements
 - **Merge criteria**: Consistency, accuracy, and adherence to guidelines
 
@@ -182,7 +182,7 @@ Your contributions help make Apidog accessible to users worldwide.
 ## 📞 Support
 
 - **General questions**: Create a [GitHub issue](https://github.com/apidog/apidog-locales/issues/new)
-- **Translation support**: Email support@apidog.com
+- **Translation support**: Email yukioikeda@apidog.com
 - **Urgent issues**: Email with "Translation Urgent" in the subject line
 
 ## 📄 License

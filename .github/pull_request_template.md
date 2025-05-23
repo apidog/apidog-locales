@@ -130,4 +130,4 @@ Related to #___
 **Thank you for contributing to Apidog's internationalization! 🌟**
 
 **Estimated review time:** 3 business days
-**For expedited review:** Email support@apidog.com with this PR link 
+**For expedited review:** Email yukioikeda@apidog.com with this PR link 

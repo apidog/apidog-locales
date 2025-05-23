@@ -120,7 +120,7 @@ If you have questions about terminology or need clarification on any translation
 
 - **Glossary issues**: Use the [glossary issue template](../.github/ISSUE_TEMPLATE/glossary_issue.md)
 - **General translation issues**: Use the [translation issue template](../.github/ISSUE_TEMPLATE/translation_issue.md)
-- **Email support**: Contact support@apidog.com for urgent terminology questions
+- **Email support**: Contact yukioikeda@apidog.com for urgent terminology questions
 - **Check context**: Look at how terms are used in the English version for guidance
 
 ---
