@@ -115,7 +115,7 @@ Example 2: "The [TERM] configuration is invalid"
 
 **Before submitting, please confirm:**
 - [ ] I have searched existing issues to avoid duplicates
-- [ ] I have checked the current [NounReferenceTable.md](../../NounReferenceTable.md)
+- [ ] I have checked the current [Glossary.md](../../Glossary.md)
 - [ ] I have provided context for where this term is used
 - [ ] I have considered cultural and regional variations
 - [ ] I have researched alternative translations

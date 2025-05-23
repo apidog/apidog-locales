@@ -58,7 +58,7 @@ assignees: ''
 ## ✅ Checklist
 
 **Before submitting, please confirm:**
-- [ ] I have checked the [NounReferenceTable.md](../../NounReferenceTable.md) for standard terminology
+- [ ] I have checked the [Glossary.md](../../Glossary.md) for standard terminology
 - [ ] I have searched existing issues to avoid duplicates
 - [ ] I have provided specific location information
 - [ ] I have included context about where this text appears

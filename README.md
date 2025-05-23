@@ -27,7 +27,7 @@ apidog-locales/
 │   └── es-ES.json      # Spanish translations
 │   └── ja-JP.json      # Japanese translations
 │   └── pt-PT.json      # Portuguese translations
-└── NounReferenceTable.md # Translation terminology glossary
+└── Glossary.md # Translation terminology glossary
 ```
 
 ## 🚀 Quick Start for Translators
@@ -38,7 +38,7 @@ Check the translation progress table above to see available languages or start a
 
 ### 2. Review the Glossary
 
-Before starting, familiarize yourself with our [terminology glossary](NounReferenceTable.md) to ensure consistency.
+Before starting, familiarize yourself with our [terminology glossary](Glossary.md) to ensure consistency.
 
 ### 3. Set Up Your Branch
 
@@ -116,7 +116,7 @@ fix(fr-FR): correct terminology in navigation menu
 
 - [ ] Follow branch naming convention (`i18n/{language}`)
 - [ ] Use proper commit message format
-- [ ] Reference [terminology glossary](NounReferenceTable.md)
+- [ ] Reference [terminology glossary](Glossary.md)
 - [ ] List all translated/modified files
 - [ ] Update progress table in README (if applicable)
 - [ ] Test translations in context when possible
@@ -139,14 +139,14 @@ Found a translation error or inconsistency? We appreciate your feedback!
 ### Before Reporting
 
 - [ ] Check existing issues to avoid duplicates
-- [ ] Verify against the [terminology glossary](NounReferenceTable.md)
+- [ ] Verify against the [terminology glossary](Glossary.md)
 - [ ] Provide specific location and context
 
 ## 🎯 Translation Best Practices
 
 ### Consistency
 
-- Always check the [NounReferenceTable.md](NounReferenceTable.md) for standard terminology
+- Always check the [Glossary.md](Glossary.md) for standard terminology
 - Maintain consistent tone and style throughout
 - Use the same translations for recurring terms
 

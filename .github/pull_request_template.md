@@ -24,7 +24,7 @@
 - [ ] `app-server/{language}.json`
 
 #### Documentation
-- [ ] `NounReferenceTable.md`
+- [ ] `Glossary.md`
 - [ ] `README.md`
 - [ ] Other: _______________
 
@@ -60,7 +60,7 @@
 - [ ] No untranslated placeholders remain (e.g., "TODO", "TRANSLATE")
 
 **Translation Quality:**
-- [ ] I have checked the [NounReferenceTable.md](../NounReferenceTable.md) for standard terminology
+- [ ] I have checked the [Glossary.md](../Glossary.md) for standard terminology
 - [ ] I have maintained consistency with existing translations
 - [ ] I have considered UI constraints and text length
 - [ ] I have tested translations in context when possible
