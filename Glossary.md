@@ -83,6 +83,10 @@ This glossary provides standardized translations for common terms used throughou
 | Member                  | メンバー                       | Membro                       | Miembro                       |
 | Role                    | ロール                         | Papel                        | Rol                           |
 | Permission              | 権限                           | Permissão                    | Permiso                       |
+| Slug                    | Slug                           | Slug                    | Slug                       |
+| Security Scheme         | Security Scheme                     | Security Scheme               | Security Scheme               |
+| Personal variables      | パーソナル変数                 | Variáveis Pessoais                | Variables Personales               |
+
 
 ## 🔄 Contributing to the Glossary
 
