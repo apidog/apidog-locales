@@ -8,8 +8,8 @@ This repository contains localized resource files for Apidog. Each language dire
 | --------------------------- | -------- | --------------- | --------------- | --------------- | -------------- |
 | **English (United States)** | en-US    | 100% ✅         | 100% ✅         | 100% ✅         | Complete       |
 | **Japanese**                | ja-JP    | 100% ✅         | 100% ✅         | 100% ✅         | Complete       |
-| **Portuguese**              | pt-PT    | 100% ✅         | 100% ✅         | 0% 🔄          | Under Review   |
-| **Spanish**                 | es-ES    | 100% ✅         | 100% ✅         | 0% 🔄          | Under Review   |
+| **Portuguese (Brazil)**     | pt-BR    | 100% ✅         | 100% ✅         | 0% 🔄          | Under Review   |
+| **Spanish (Spain)**         | es-ES    | 100% ✅         | 100% ✅         | 0% 🔄          | Under Review   |
 
 > **Note**: Your translation work will be visible in the product once the overall progress reaches 80%.
 
