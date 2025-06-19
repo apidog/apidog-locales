@@ -21,12 +21,12 @@ apidog-locales/
 │   ├── en-US.json      # English (base language)
 │   └── es-ES.json      # Spanish translations
 │   └── ja-JP.json      # Japanese translations
-│   └── pt-PT.json      # Portuguese translations
+│   └── pt-BR.json      # Portuguese translations
 ├── app-server/          # Server-side message translations
 │   ├── en-US.json      # English (base language)
 │   └── es-ES.json      # Spanish translations
 │   └── ja-JP.json      # Japanese translations
-│   └── pt-PT.json      # Portuguese translations
+│   └── pt-BR.json      # Portuguese translations
 └── Glossary.md # Translation terminology glossary
 ```
 
